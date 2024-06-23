@@ -3,7 +3,6 @@ polkit-gnome
 ffmpeg
 neovim
 viewnior
-rofi
 pavucontrol
 thunar
 starship
@@ -19,6 +18,7 @@ thunar-archive-plugin
 kitty
 waybar-hyprland
 wlogout
+wofi 
 swaylock-effects
 sddm-git
 pamixer

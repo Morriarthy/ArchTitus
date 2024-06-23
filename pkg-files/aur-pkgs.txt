@@ -1,5 +1,6 @@
 --END OF MINIMAL INSTALL--
 autojump
+bat
 brave-bin
 bridge-utils
 dxvk-bin
